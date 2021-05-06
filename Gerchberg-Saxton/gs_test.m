@@ -1,6 +1,8 @@
 %% A model of Gerchberg-Saxton
 %  Matthew Noyes - JPL 2021
 %  HCIT Journal Club
+
+% This is the main file code use to experiment with GS
 clear all; clc
 
 % Force a solution (1), or return first attempted result regardless of success (0)?
